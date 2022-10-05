@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cd1f31b-8b9c-4364-8111-82d4c581cbc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Consumidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Consumidor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Produtor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Produtor.java" afterDir="false" />
@@ -54,8 +53,8 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="Application.Consumidor (1)">
-    <configuration name="Consumidor (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Produtor (1)">
+    <configuration name="Consumidor (1)" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Consumidor" />
       <module name="rabbitmq-basico" />
       <method v="2">
@@ -97,8 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Consumidor (1)" />
         <item itemvalue="Application.Produtor (1)" />
+        <item itemvalue="Application.Consumidor (1)" />
         <item itemvalue="Application.Consumidor" />
         <item itemvalue="Application.Produtor" />
       </list>
@@ -128,6 +127,7 @@
       <workItem from="1573129917604" duration="2735000" />
       <workItem from="1664927348299" duration="319000" />
       <workItem from="1664927945904" duration="3401000" />
+      <workItem from="1665010096305" duration="3108000" />
     </task>
     <servers />
   </component>
